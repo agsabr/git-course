@@ -1,1 +1,1 @@
-alert('Hello, git!')
+alert('Hello, git, baby)')
